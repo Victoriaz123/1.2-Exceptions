@@ -11,7 +11,7 @@ Escriu el codi necessari per a generar i capturar una excepció de tipus "IndexO
 
 💻Tecnologies Utilitzades
 
-Se han utilizado Java Standard Library (JDK) y Eclipse
+Se han utilizado Java Standard Library (JDK) y IntelliJ
 
 📋Requisits
 
