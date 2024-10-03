@@ -29,9 +29,8 @@ public class Venta {
             return precioTotal;
         }
 
-    // Metodo para generar IndexOutOfBoundsException
-    public Producto getProducto(int index) {
-        return productos.get(index); // generara IndexOutOfBoundsException si el index esta fuera de arraylist
+     public Producto getProducto(int index) {
+        return productos.get(index); 
     }
     }
 
